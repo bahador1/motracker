@@ -1,0 +1,7 @@
+README.md
+setup.py
+multi_object_tracker.egg-info/PKG-INFO
+multi_object_tracker.egg-info/SOURCES.txt
+multi_object_tracker.egg-info/dependency_links.txt
+multi_object_tracker.egg-info/requires.txt
+multi_object_tracker.egg-info/top_level.txt
