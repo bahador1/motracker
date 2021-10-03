@@ -1,5 +1,0 @@
-numpy
-matplotlib
-scipy
-opencv-contrib-python
-motmetrics
