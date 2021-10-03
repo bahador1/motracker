@@ -97,5 +97,5 @@ python <mot_*.py> --help
 ```
 If your don't pass video's URL to the interpreter, it get video input from your webcam. otherwise you should run the code in the following manner. 
 ```
-
+python mot_YOLOv3.py --video ../video_data/jamming.mp4
 ```
