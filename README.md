@@ -1,15 +1,15 @@
-[cars-yolo-output]: examples/assets/cars.gif "Sample Output with YOLO"
-[cows-tf-ssd-output]: examples/assets/cows.gif "Sample Output with SSD"
+[Yolo_jamming]: docs/result.gif "Sample Output with YOLO"
+[csv_output]: docs/output.gif "csv output"
 
 
 
 # Multi-object trackers in Python
 This implementation is about designing a robust __multi-object tracking (MOT) framework__.
 
-`YOLOv3 + CentroidTracker` |  `TF-MobileNetSSD + CentroidTracker`
+`YOLOv3 + CentroidTracker` |  `results for every frame of the input`
 :-------------------------:|:-------------------------:
-![Cars with YOLO][cars-yolo-output]  |  ![Cows with tf-SSD][cows-tf-ssd-output]
-Video source: [link](https://flic.kr/p/L6qyxj) | Video source: [link](https://flic.kr/p/26WeEWy)
+![Yolo_jamming][Yolo_jamming]  |  ![csv_output][csv_output]
+
 
 
 The general architecture of this work includes three main subsections:
