@@ -86,6 +86,8 @@ pip install -e .
 
 You will have to download the pretrained weights for the neural-network models using shell scripts provided below `pre_trained models` folder. 
 
+**Note**
+For using the opencv empowered with GPU, you may have to compile a CUDA enabled version of OpenCV from the following sources
   
   
 ## How to use it
