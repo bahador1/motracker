@@ -1,6 +1,6 @@
 [Yolo_jamming]: docs/result.gif "Sample Output with YOLO"
 [csv_output]: docs/output.gif "csv output"
-[architecture]: docs/the\ overall\ architecture.png "the overall architectue" 
+[architecture]: docs/the%20overall%20architecture.png "the overall architectue" 
 
 
 
