@@ -103,4 +103,4 @@ If your don't pass video's URL to the interpreter, it get video input from your 
 python mot_YOLOv3.py --video ../video_data/jamming.mp4
 ```
 ### The Overall Architecture
-![architecture][Overall architecture]
+![architecture]
